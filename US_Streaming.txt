@@ -155,6 +155,7 @@ payload:
   - DOMAIN-SUFFIX,foxplus.com
   # HBOMAX
   - DOMAIN-SUFFIX,cinemax.com
+  - DOMAIN-SUFFIX,api.hbo.com
   - DOMAIN-SUFFIX,forthethrone.com
   - DOMAIN-SUFFIX,hbo.com
   - DOMAIN-SUFFIX,hbogo.com
