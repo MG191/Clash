@@ -155,11 +155,18 @@ payload:
   - DOMAIN-SUFFIX,foxplus.com
   # HBOMAX
   - DOMAIN-SUFFIX,cinemax.com
+  - DOMAIN-SUFFIX,forthethrone.com
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hbogo.com
   - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,maxgo.com
-  - PROCESS-NAME,com.hbo.hbonow
+  - DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,manifest.prod.boltdns.net
+  - DOMAIN-SUFFIX,hbogeo.cust.footprint.net
   # Hulu
   - DOMAIN-SUFFIX,112263.com
   - DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
