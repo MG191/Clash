@@ -3,3 +3,5 @@ payload:
 # DMM
 - DOMAIN-SUFFIX,dmm.co.jp
 - DOMAIN-KEYWORD,dmm
+
+- DOMAIN-SUFFIX,mora.jp
