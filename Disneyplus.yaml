@@ -1,6 +1,5 @@
 #Disneyplus
 payload:
-  # Disney
   - DOMAIN-SUFFIX,abc-studios.com
   - DOMAIN-SUFFIX,abc.com
   - DOMAIN-SUFFIX,adobedtm.com
