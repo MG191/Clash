@@ -164,7 +164,6 @@ payload:
   - DOMAIN-SUFFIX,bloomberg.cn
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,blubrry.com
-  - DOMAIN-SUFFIX,booklive.jp
   - DOMAIN-SUFFIX,boslife.net
   - DOMAIN-SUFFIX,box.com
   - DOMAIN-SUFFIX,brave.com
@@ -182,7 +181,6 @@ payload:
   - DOMAIN-SUFFIX,clubhouseapi.com
   - DOMAIN-SUFFIX,clyp.it
   - DOMAIN-SUFFIX,comparitech.com
-  - DOMAIN-SUFFIX,conoha.jp
   - DOMAIN-SUFFIX,crucial.com
   - DOMAIN-SUFFIX,cyberctm.com
   - DOMAIN-SUFFIX,cyclingnews.com
@@ -215,7 +213,6 @@ payload:
   - DOMAIN-SUFFIX,etherscan.io
   - DOMAIN-SUFFIX,euronews.com
   - DOMAIN-SUFFIX,evozi.com
-  - DOMAIN-SUFFIX,exblog.jp
   - DOMAIN-SUFFIX,feeder.co
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,feedx.net
@@ -233,7 +230,6 @@ payload:
   - DOMAIN-SUFFIX,getlantern.org
   - DOMAIN-SUFFIX,getsync.com
   - DOMAIN-SUFFIX,globalvoices.org
-  - DOMAIN-SUFFIX,goo.ne.jp
   - DOMAIN-SUFFIX,goodreads.com
   - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,greatfire.org
@@ -260,7 +256,6 @@ payload:
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,issuu.com
   - DOMAIN-SUFFIX,istockphoto.com
-  - DOMAIN-SUFFIX,japantimes.co.jp
   - DOMAIN-SUFFIX,jiji.com
   - DOMAIN-SUFFIX,jinx.com
   - DOMAIN-SUFFIX,jkforum.net
@@ -268,7 +263,6 @@ payload:
   - DOMAIN-SUFFIX,joinmastodon.org
   - DOMAIN-SUFFIX,justmysocks.net
   - DOMAIN-SUFFIX,justpaste.it
-  - DOMAIN-SUFFIX,kadokawa.co.jp
   - DOMAIN-SUFFIX,kakao.com
   - DOMAIN-SUFFIX,kakaocorp.com
   - DOMAIN-SUFFIX,kik.com
@@ -282,7 +276,6 @@ payload:
   - DOMAIN-SUFFIX,limbopro.xyz
   - DOMAIN-SUFFIX,listennotes.com
   - DOMAIN-SUFFIX,livestream.com
-  - DOMAIN-SUFFIX,logimg.jp
   - DOMAIN-SUFFIX,logmein.com
   - DOMAIN-SUFFIX,mail.ru
   - DOMAIN-SUFFIX,mailchimp.com
@@ -293,7 +286,6 @@ payload:
   - DOMAIN-SUFFIX,mega.nz
   - DOMAIN-SUFFIX,mergersandinquisitions.com
   - DOMAIN-SUFFIX,mingpao.com
-  - DOMAIN-SUFFIX,mixi.jp
   - DOMAIN-SUFFIX,mixlr.com
   - DOMAIN-SUFFIX,mobile01.com
   - DOMAIN-SUFFIX,mubi.com
@@ -307,8 +299,6 @@ payload:
   - DOMAIN-SUFFIX,neowin.net
   - DOMAIN-SUFFIX,newstapa.org
   - DOMAIN-SUFFIX,nexitally.com
-  - DOMAIN-SUFFIX,nhk.or.jp
-  - DOMAIN-SUFFIX,nii.ac.jp
   - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN-SUFFIX,nitter.net
   - DOMAIN-SUFFIX,nofile.io
@@ -341,7 +331,6 @@ payload:
   - DOMAIN-SUFFIX,quoracdn.net
   - DOMAIN-SUFFIX,qz.com
   - DOMAIN-SUFFIX,radio.garden
-  - DOMAIN-SUFFIX,rakuten.co.jp
   - DOMAIN-SUFFIX,rarbgprx.org
   - DOMAIN-SUFFIX,reabble.com
   - DOMAIN-SUFFIX,readmoo.com
@@ -427,7 +416,6 @@ payload:
   - DOMAIN-SUFFIX,ycombinator.com
   - DOMAIN-SUFFIX,yesasia.com
   - DOMAIN-SUFFIX,yes-news.com
-  - DOMAIN-SUFFIX,yomiuri.co.jp
   - DOMAIN-SUFFIX,you-get.org
   - DOMAIN-SUFFIX,zaobao.com
   - DOMAIN-SUFFIX,zello.com
